@@ -1,0 +1,14 @@
+{
+  "name": "class-18-assignment",
+  "version": "1.0.0",
+  "description": "This is npm project for class 18 assignment.",
+  "main": "index.js",
+  "scripts": {
+    "mostofa" : "json-server --watch db.json --port 1010"
+  },
+  "author": "Rohan Mostofa",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
