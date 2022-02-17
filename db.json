@@ -43,50 +43,52 @@
 
 
     "brands"        : [
-        {
-            "brand"    : "Fjallraven"
-        },
 
         {
+            "id"       : 1,
             "brand"    : "Menswear Show"
         },
 
         {
+            "id"       : 2,
             "brand"    : "Jewelery House"
         },
 
         {
+            "id"       : 3,
             "brand"    : "Beauty products"
         },
 
         {
+            "id"       : 4,
             "brand"    : "Girlswear"
         }
     ],
 
     "categorys"        : [
         {
+            "id"       : 1,
             "category"  : "Men's clothing"
         },
 
         {
+            "id"       : 2,
             "category"  : "Jewelery"
         },
 
         {
+            "id"       : 3,
             "category"  : "Girls's Clothing"
         },
 
         {
+            "id"       : 4,
             "category"  : "Accessories"
         },
 
         {
+            "id"       : 5,
             "category"  : "Best Rating"
-        },
-
-        {
-            "category"  : "Best Selling"
         }
     ],
 
