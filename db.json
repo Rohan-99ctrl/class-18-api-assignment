@@ -5,8 +5,6 @@
             "pTitle"    : "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
             "price"     : 109.95,
             "pDes"      : "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve.",
-            "category"  : "men's clothing",
-            "brands"    : "Fjallraven",
             "image"     : "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
         },
 
@@ -15,8 +13,6 @@
             "pTitle"    : "Mens Cotton Jacket",
             "price"     : 55.99,
             "pDes"      : "great outerwear jackets for Spring/Autumn/Winter, good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
-            "category"  : "men's clothing",
-            "brands"    : "Menswear",
             "image"     : "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
         },
 
@@ -25,8 +21,6 @@
             "pTitle"    : "Mens Casual Slim Fit",
             "price"     : 15.99,
             "pDes"      : "The color could be slightly different between on the screen and in practice. Please note that body builds vary by person, therefore.",
-            "category"  : "men's clothing",
-            "brands"    : "Menswear",
             "image"     : "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
         },
 
@@ -35,8 +29,6 @@
             "pTitle"    : "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
             "price"     : 695,
             "pDes"      : "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl.",
-            "category"  : "jewelery",
-            "brands"    : "Beauty products",
             "image"     : "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
         },
 
@@ -45,11 +37,60 @@
             "pTitle"    : "Solid Gold Petite Micropave ",
             "price"     : 168,
             "pDes"      : "Satisfaction Guaranteed. Return or exchange any order within 30 days.",
-            "category"  : "jewelery",
-            "brands"    : "Beauty products",
             "image"     : "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"
         }
     ],
+
+
+    "brands"        : [
+        {
+            "brand"    : "Fjallraven"
+        },
+
+        {
+            "brand"    : "Menswear Show"
+        },
+
+        {
+            "brand"    : "Jewelery House"
+        },
+
+        {
+            "brand"    : "Beauty products"
+        },
+
+        {
+            "brand"    : "Girlswear"
+        }
+    ],
+
+    "categorys"        : [
+        {
+            "category"  : "Men's clothing"
+        },
+
+        {
+            "category"  : "Jewelery"
+        },
+
+        {
+            "category"  : "Girls's Clothing"
+        },
+
+        {
+            "category"  : "Accessories"
+        },
+
+        {
+            "category"  : "Best Rating"
+        },
+
+        {
+            "category"  : "Best Selling"
+        }
+    ],
+
+
 
     "devs"          : [
         {
@@ -97,6 +138,7 @@
             "photo"     : "https://scontent.fjsr6-1.fna.fbcdn.net/v/t1.6435-9/117965295_1039057723191769_366966963472027998_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHBZC60tskAGWMdOdkHTym8NtMkF71tcF020yQXvW1wXWgJoKiMTUFrp2GgowGlov1ido3AnkSgKIh9bvRz6h40&_nc_ohc=ndXkQ5GCReUAX9TePN5&_nc_ht=scontent.fjsr6-1.fna&oh=00_AT-hYSGRRxJAl9XpZJSWMWicaTqKXh_UecIv4cHVPEbZEw&oe=6231FF14"
         }
     ],
+
 
     "studentResult"     : [
         {
